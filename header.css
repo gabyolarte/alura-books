@@ -1,0 +1,13 @@
+cabecalho{
+    background-color: var(--cor-cabecalho);
+    padding: 1em;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+@media screen and (min-width: 820px) {
+}
+@media screen and (min-width: 1024px) {
+        }
+
