@@ -10,4 +10,13 @@ cabecalho{
 }
 @media screen and (min-width: 1024px) {
         }
+header
+{
+    .container__imagem,.container__frase{
+        padding: 1em;
+    }
+    .container__titulo,.container__frase{
+        display: none;
+    }
+}
 
